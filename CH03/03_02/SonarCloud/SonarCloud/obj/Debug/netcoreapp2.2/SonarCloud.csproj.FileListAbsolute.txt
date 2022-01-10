@@ -1,0 +1,16 @@
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\SonarCloud.deps.json
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\SonarCloud.runtimeconfig.json
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\SonarCloud.runtimeconfig.dev.json
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\SonarCloud.dll
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\bin\Debug\netcoreapp2.2\SonarCloud.pdb
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.csprojAssemblyReference.cache
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.RazorAssemblyInfo.cache
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.RazorAssemblyInfo.cs
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.AssemblyInfoInputs.cache
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.AssemblyInfo.cs
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.RazorTargetAssemblyInfo.cache
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.dll
+C:\Users\iamsap\Source\Repos\SonarCloud\SonarCloud\obj\Debug\netcoreapp2.2\SonarCloud.pdb
