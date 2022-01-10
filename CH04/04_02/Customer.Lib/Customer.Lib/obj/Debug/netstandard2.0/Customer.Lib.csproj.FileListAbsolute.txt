@@ -1,0 +1,3 @@
+C:\Users\iamsap\Source\Repos\Customer.Lib\Customer.Lib\obj\Debug\netstandard2.0\Customer.Lib.csprojAssemblyReference.cache
+C:\Users\iamsap\Source\Repos\Customer.Lib\Customer.Lib\obj\Debug\netstandard2.0\Customer.Lib.AssemblyInfoInputs.cache
+C:\Users\iamsap\Source\Repos\Customer.Lib\Customer.Lib\obj\Debug\netstandard2.0\Customer.Lib.AssemblyInfo.cs
